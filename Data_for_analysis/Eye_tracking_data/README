@@ -1,0 +1,3 @@
+This folder contains the eye-tracking data for the Foraging task collected during the main session.        
+Each participant has two types of files: one ending with 'p' (for poor environment) and another ending with 'r' for rich environment.         
+As individuals files are too heavy, they were split into 5 parts. To be used, all parts need to be loaded and combined into one structure.    
